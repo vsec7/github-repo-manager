@@ -84,4 +84,6 @@ DELAY_SECONDS=5
 
 Created by **[@vsec7](https://github.com/vsec7)**
 
-MIT License.
+## Buy me Coffee
+
+viloid.sol | viloid.bnb
