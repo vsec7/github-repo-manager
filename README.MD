@@ -19,9 +19,9 @@ Automate repository operations for multiple GitHub users using a simple Bash scr
 Each folder inside your current directory (e.g. `repo1`, `repo2`) will be treated as a separate repo:
 
 ```
-📁 repo1/
-📁 repo2/
-📁 repo3/
+📁 my-repo-1/
+📁 my-repo-2/
+📁 my-repo-3/
 📄 users.txt
 📄 github-repo-manager.sh
 ```
