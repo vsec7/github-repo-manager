@@ -4,6 +4,7 @@ Automate repository operations for multiple GitHub users using a simple Bash scr
 
 ## 📦 Features
 
+* Mass Clone *all public repositories* by username
 * Push all folders in current directory to GitHub as **public repositories**
 * Change visibility of a **specific** or **all** repositories
 * Delete:
@@ -63,12 +64,13 @@ Choose from the menu:
 ```
 📋 GitHub Repo Manager by github.com/vsec7
 0) Exit
-1) Push all folders as public repos
-2) Change visibility of a specific repo
-3) Change visibility of ALL repos
-4) Delete a specific repo
-5) Delete repos that match local folder names
-6) Delete ALL repos for each user
+1) Clone ALL public repos from GitHub username
+2) Push all folders as public repos
+3) Change visibility of a specific repo
+4) Change visibility of ALL repos
+5) Delete a specific repo
+6) Delete repos that match local folder names
+7) Delete ALL repos for each user
 ```
 
 ## ⏱️ Delay
